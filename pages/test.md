@@ -16,7 +16,7 @@
 
 * 方差角度：为了保留对方差贡献最大的特征，需要最大化数据在新特征方向上的投影。
 
-$f(x)=\frac{1}{\sqrt{2 \pi \sigma x}} e^{-\frac{(x-\mu)^{2}}{2 \sigma^{2}}}$
+<img src="https://latex.codecogs.com/gif.latex?f(x)=\frac{1}{\sqrt{2 \pi \sigma x}} e^{-\frac{(x-\mu)^{2}}{2 \sigma^{2}}}/>
 
   
 
